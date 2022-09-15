@@ -10,7 +10,6 @@ main.title("JOGO CHEGUE AO PONTO POR SAMUEL FELIPE LIMA")
 main.bgpic('background.gif')
 main.bgcolor('black')
 
-main.addshape('Rupee.gif')
 main.addshape('planeta.gif')
 main.addshape('nave_up.gif')
 main.addshape('nave_down.gif')
