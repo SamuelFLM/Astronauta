@@ -1,0 +1,5 @@
+    JOGO : O PONTO
+
+CONDIÇÃO:
+
+    DEVE SER INTERATIVO
